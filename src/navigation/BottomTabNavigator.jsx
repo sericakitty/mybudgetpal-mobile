@@ -12,7 +12,7 @@ const BottomTabNavigator = () => {
         component={HomeView} 
         options={{ title: 'Home' }}
       />
-      {/* Add more Tab.Screen components here if you want additional tabs */}
+      {/* Add other tabs if needed */}
     </Tab.Navigator>
   );
 };
